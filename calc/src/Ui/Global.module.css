@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.firstcard{
+    width: 35%;
+    height: 70vh;
+    margin-left: 25%;
+    margin-top: 20vh;
+    border-radius: 10px;
+    font-size: 2rem;
+    background-color: rgb(159, 149, 215);
+}
+.inputCard{
+    width: 80%;
+    height: 10%;
+    margin-left: 10%;
+    border-radius: 8px;
+    font-size: 2rem;
+    color: white;
+    background-color: rgb(136, 134, 152);
+}
+.numberCard{
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.clickNumber{
+    width:80px;
+    height: 80px;
+    background-color: rgb(245, 237, 237);
+    margin: 3px 3px;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top:15px;
+}
+
+.firstNumberCard{
+    width: 70%;
+    height: 100%;
+}
+
+.secondNumberCard{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.clickplas{
+    width:55px;
+    height: 50px;
+    font-size: 2rem;
+    background-color: rgb(245, 237, 237);
+    font-weight: bold;
+    margin: 3px 3px;
+    margin-top:15px;
+}
+
+.clickres{
+    width:110px;
+    height: 50px;
+    font-size: 2rem;
+    background-color: rgb(245, 237, 237);
+    font-weight: bold;
+    margin: 2px 2px;
+}
